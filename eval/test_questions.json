@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Who is the narrator of White Nights?",
+    "reference": "The story is narrated by an unnamed young man who lives alone in Saint Petersburg.",
+    "keywords": ["unnamed narrator", "young man", "Saint Petersburg"]
+  },
+  {
+    "question": "Where does the narrator live?",
+    "reference": "The narrator lives in Saint Petersburg.",
+    "keywords": ["Saint Petersburg"]
+  },
+  {
+    "question": "What does the narrator describe himself as?",
+    "reference": "The narrator describes himself as a dreamer and a lonely person.",
+    "keywords": ["dreamer", "lonely"]
+  },
+  {
+    "question": "Why does the narrator spend so much time alone?",
+    "reference": "The narrator is socially isolated and has difficulty forming relationships with other people.",
+    "keywords": ["alone", "socially isolated", "relationships"]
+  },
+  {
+    "question": "Whom does the narrator meet during his walks?",
+    "reference": "The narrator meets a young woman named Nastenka.",
+    "keywords": ["Nastenka", "young woman"]
+  },
+  {
+    "question": "Where does the narrator first encounter Nastenka?",
+    "reference": "The narrator encounters Nastenka near a canal in Saint Petersburg.",
+    "keywords": ["canal", "Saint Petersburg", "Nastenka"]
+  },
+  {
+    "question": "Why is Nastenka crying when the narrator first sees her?",
+    "reference": "Nastenka is upset and crying because she is troubled by her personal situation and her absent lover.",
+    "keywords": ["crying", "upset", "lover"]
+  },
+  {
+    "question": "What does the narrator offer to do for Nastenka?",
+    "reference": "The narrator offers to accompany her and help her if she needs assistance.",
+    "keywords": ["accompany", "help"]
+  },
+  {
+    "question": "What condition does Nastenka place on her friendship with the narrator?",
+    "reference": "Nastenka asks the narrator not to fall in love with her.",
+    "keywords": ["not fall in love", "friendship"]
+  },
+  {
+    "question": "Who is Nastenka waiting for?",
+    "reference": "Nastenka is waiting for the young man she loves, who had previously promised to return to her.",
+    "keywords": ["young man", "loves", "return"]
+  },
+  {
+    "question": "How did Nastenka first meet her lover?",
+    "reference": "Nastenka met him when he rented a room in her grandmother's house.",
+    "keywords": ["rented a room", "grandmother's house"]
+  },
+  {
+    "question": "Why does Nastenka live with her grandmother?",
+    "reference": "Nastenka lives with her grandmother, who is very strict and closely supervises her.",
+    "keywords": ["grandmother", "strict", "supervises"]
+  },
+  {
+    "question": "What unusual method does Nastenka's grandmother use to control her?",
+    "reference": "Her grandmother pins Nastenka's dress to her own dress so that Nastenka cannot move away without her noticing.",
+    "keywords": ["pins", "dress", "grandmother"]
+  },
+  {
+    "question": "Why does Nastenka's lover leave Saint Petersburg?",
+    "reference": "He leaves Saint Petersburg because he has to travel away for a period of time.",
+    "keywords": ["leaves", "Saint Petersburg", "travel"]
+  },
+  {
+    "question": "What promise does Nastenka's lover make before leaving?",
+    "reference": "He promises to return after a year and marry Nastenka.",
+    "keywords": ["return", "year", "marry"]
+  },
+  {
+    "question": "How long does Nastenka wait for her lover?",
+    "reference": "Nastenka waits for him for a year after he leaves.",
+    "keywords": ["one year", "wait"]
+  },
+  {
+    "question": "What does Nastenka do when her lover does not appear?",
+    "reference": "She becomes increasingly anxious and hopes that he will still return to her.",
+    "keywords": ["anxious", "return", "hope"]
+  },
+  {
+    "question": "What role does the narrator play in Nastenka's situation?",
+    "reference": "The narrator becomes Nastenka's confidant and listens to her story while helping her deal with her emotions.",
+    "keywords": ["confidant", "listens", "helping"]
+  },
+  {
+    "question": "What does the narrator begin to feel for Nastenka?",
+    "reference": "The narrator gradually falls deeply in love with Nastenka.",
+    "keywords": ["falls in love", "Nastenka"]
+  },
+  {
+    "question": "Does Nastenka initially return the narrator's love?",
+    "reference": "Nastenka cares for the narrator as a friend but remains emotionally attached to her lover.",
+    "keywords": ["friend", "lover", "emotionally attached"]
+  },
+  {
+    "question": "What does the narrator eventually confess to Nastenka?",
+    "reference": "The narrator confesses that he has fallen in love with her.",
+    "keywords": ["confesses", "love"]
+  },
+  {
+    "question": "How does Nastenka respond to the narrator's confession?",
+    "reference": "Nastenka becomes emotionally moved and briefly considers the possibility of being with the narrator.",
+    "keywords": ["moved", "considers", "narrator"]
+  },
+  {
+    "question": "What happens when Nastenka's lover finally appears?",
+    "reference": "Nastenka's lover returns, and she immediately chooses to go with him.",
+    "keywords": ["lover returns", "chooses", "goes with him"]
+  },
+  {
+    "question": "How does the narrator react when Nastenka leaves with her lover?",
+    "reference": "The narrator is deeply heartbroken but accepts the situation.",
+    "keywords": ["heartbroken", "accepts"]
+  },
+  {
+    "question": "What is the significance of the title White Nights?",
+    "reference": "The title refers to the bright summer nights in Saint Petersburg when darkness is brief and the city remains illuminated.",
+    "keywords": ["summer nights", "Saint Petersburg", "bright", "darkness"]
+  },
+  {
+    "question": "What is one major theme of White Nights?",
+    "reference": "Loneliness and the human desire for companionship are major themes of the story.",
+    "keywords": ["loneliness", "companionship"]
+  },
+  {
+    "question": "How does the story explore the theme of dreams?",
+    "reference": "The narrator escapes into an imaginative inner world and dreams about relationships and experiences that he lacks in real life.",
+    "keywords": ["dreams", "imagination", "inner world", "real life"]
+  },
+  {
+    "question": "What does Saint Petersburg represent for the narrator?",
+    "reference": "Saint Petersburg provides the setting for the narrator's solitary life and becomes a place where his dreams and encounters with Nastenka unfold.",
+    "keywords": ["Saint Petersburg", "solitary life", "dreams", "Nastenka"]
+  },
+  {
+    "question": "What does Nastenka ultimately choose?",
+    "reference": "Nastenka chooses her returning lover rather than beginning a relationship with the narrator.",
+    "keywords": ["Nastenka", "lover", "chooses"]
+  },
+  {
+    "question": "How does the narrator feel at the end of the story?",
+    "reference": "Although the narrator is heartbroken, he is grateful for the brief happiness and connection he experienced with Nastenka.",
+    "keywords": ["heartbroken", "grateful", "happiness", "connection"]
+  }
+]
