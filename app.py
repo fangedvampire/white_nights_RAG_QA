@@ -4,7 +4,7 @@ from src.pipeline import RAGPipeline
 parser = argparse.ArgumentParser()
 parser.add_argument("--pdfs", default="data/pdfs")
 parser.add_argument("--embed", default="sentence-transformers/all-MiniLM-L6-v2")
-parser.add_argument("--chunk", type=int, default=200)
+parser.add_argument("--chunk", type=int, default=150)
 args = parser.parse_args()
 
 rag = RAGPipeline(args.pdfs, args.embed, args.chunk)

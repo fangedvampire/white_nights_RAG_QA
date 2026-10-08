@@ -6,7 +6,7 @@ from src.pipeline import RAGPipeline
 from src.generate import Generator
 
 PDF_DIR = "data/pdfs"
-CHUNK_SIZES = [100, 200]
+CHUNK_SIZES = [150, 300]
 EMBED_MODELS = [
     "sentence-transformers/all-MiniLM-L6-v2",
     "BAAI/bge-small-en-v1.5",
