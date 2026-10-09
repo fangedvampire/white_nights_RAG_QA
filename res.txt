@@ -1,0 +1,15 @@
+(.venv) PS C:\Work Files\Personal\AI classes\2027\Projects\Document_RAG_QA> python -m src.evaluate
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights: 100%|███████████████████████████████████████████████████████████████| 290/290 [00:00<00:00, 446.89it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights: 100%|██████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 2282.74it/s]
+
+=== chunk=150 | model=sentence-transformers/all-MiniLM-L6-v2 ===
+Loading weights: 100%|██████████████████████████████████████████████████████████████| 103/103 [00:00<00:00, 3023.10it/s]
+Batches: 100%|████████████████████████████████████████████████████████████████████████████| 6/6 [00:03<00:00,  1.52it/s]
+{'retrieval_hit_%': 26.7, 'correct_%': 20.0, 'avg_relevance': 0.605}
+
+=== chunk=150 | model=BAAI/bge-small-en-v1.5 ===
+Loading weights: 100%|██████████████████████████████████████████████████████████████| 199/199 [00:00<00:00, 2222.78it/s]
+Batches: 100%|████████████████████████████████████████████████████████████████████████████| 6/6 [00:10<00:00,  1.67s/it]
