@@ -1,0 +1,1 @@
+[![Architecture diagram of fangedvampire/white_nights_rag_qa](https://gitdiagram.com/fangedvampire/white_nights_rag_qa/diagram.png)](https://gitdiagram.com/fangedvampire/white_nights_rag_qa?utm_source=readme&utm_medium=picture)
